@@ -1,0 +1,41 @@
+body
+{
+padding:50px 0px 0px 0px;
+z-index:0;
+}
+.navbar-dark
+{
+background-color:#512DAB;
+}
+.jumbotron
+	{
+		margin:0px auto;
+	padding: 70px 30px 70px 10px;
+	background: 	#9370DB;
+	color: floralwhite;
+	}
+.row-header
+{
+	margin:0px auto;
+	padding: 0px auto;
+}
+.footer
+{
+	margin:0px auto;
+	padding: 20px 0px 20px 0px;
+	background-color: 	#DCDCDC;
+}
+.row-content
+{
+	padding: 40px 40px;
+}
+.row-head
+{
+	padding: 10px 30px;
+}
+.tab-content{
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	padding: 10px;
+}
